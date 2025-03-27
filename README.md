@@ -35,6 +35,12 @@ AtliQ Hardware is a company specializing in computer hardware development. This 
 
 ---
 
+## Contact Me
+For any questions or suggestions, please contact:
+- Name: Anjitha Nair
+- Email: nairanjitha99@gmail.com
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/anjithanair12/)
+
 ## 📢 Conclusion  
 The analysis highlights **strong growth in e-commerce sales, significant product demand spikes, and a positive financial outlook for AtliQ Hardware**. These insights help in making **data-driven business decisions** to optimize sales strategies, product focus, and market expansion.  
 
